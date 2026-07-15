@@ -170,6 +170,11 @@ nav p {
     border-bottom: none;
 }
 
+.body {
+    height: 100vh;
+    background-color: grey;
+}
+
 .emoji-circles {
     display: flex;
     justify-content: center;
